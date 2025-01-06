@@ -26,6 +26,9 @@ Reference Material: Links to literature, research papers, and online resources r
 
 Documentation: Installation instructions, software dependencies, and usage guidelines for reproducing the experiments.
 
+## Scrrenshots
+![image](https://github.com/user-attachments/assets/fab06228-b4ce-4c33-aa1c-aaa0b2c96468)
+
 
 
 
