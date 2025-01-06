@@ -26,11 +26,10 @@ Reference Material: Links to literature, research papers, and online resources r
 
 Documentation: Installation instructions, software dependencies, and usage guidelines for reproducing the experiments.
 
-## Scrrenshots
+## Scrrenshots of Model building, Model testing and Prediction
 ![image](https://github.com/user-attachments/assets/fab06228-b4ce-4c33-aa1c-aaa0b2c96468)
-
-
-
+![image](https://github.com/user-attachments/assets/98d4f3fe-046c-41e5-86ee-63e37f76986a)
+![image](https://github.com/user-attachments/assets/cb90fdcd-56af-4516-9880-f52dad3b83a4)
 
 ## Authors
 Dhavalkumar Pithadiya
@@ -49,20 +48,11 @@ Holt-Winters: Holt-Winters Exponential Smoothing
 
 This project optimized forecasting accuracy through hyperparameter tuning (LSTM units, dropout rates, activation functions), advanced preprocessing (data cleaning, scaling), and incorporating domain-specific insights like seasonality and holiday effects. Models were evaluated using metrics (R², MSE, RMSE), and a comparative analysis identified the best-performing approach for stock price prediction.
 
-
-
-
-
-
-
 ## Installation
 
 Install with essential library e.g.,
-pmdarima, yfinance, prophet etc
-
-
-
-    
+pmdarima, yfinance, fbprophet etc
+   
 ## Supervision
 
 This Project is Supervised by Hasan-Al-Madfai
